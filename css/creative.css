@@ -1,6 +1,6 @@
 /*!
  * Start Bootstrap - Creative v5.1.8 (https://startbootstrap.com/template-overviews/creative)
- * Copyright 2013-2019 Start Bootstrap
+ * Copyright 2013-2020 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-creative/blob/master/LICENSE)
  */
 
@@ -9692,11 +9692,13 @@ header.masthead h1 {
 
 #portfolio .container-fluid {
   max-width: 1920px;
+  margin: 50px;
 }
 
 #portfolio .container-fluid .portfolio-box {
   position: relative;
   display: block;
+  margin: 5px;
 }
 
 #portfolio .container-fluid .portfolio-box .portfolio-box-caption {
