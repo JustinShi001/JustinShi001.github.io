@@ -89,6 +89,10 @@ p {
   margin-bottom: 1rem;
 }
 
+.project-description {
+  font-size: 1em;
+}
+
 abbr[title],
 abbr[data-original-title] {
   text-decoration: underline;
